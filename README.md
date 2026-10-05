@@ -1,3 +1,11 @@
+Step 4: Update README.md (The Public Trust Landing)
+On your repository page, click on README.md in the file list.
+
+In the top-right corner of the file preview, click the pencil icon (Edit this file).
+
+Replace the contents completely with this:
+
+Markdown
 # XG8 Cryptographic Specification & Offline Decryptor
 
 > **Your keys. Your data. Absolute zero-knowledge.**
@@ -15,3 +23,14 @@ To inspect or decrypt your encrypted vault export locally without contacting any
 2. Install the standard Python cryptography library:
    ```bash
    pip install cryptography
+Run the decryptor:
+
+Bash
+python decrypt.py my_vault_backup.json
+Verification
+You can inspect SPEC.md to verify the mathematical invariants implemented across our Android client and backend API.
+
+Website: x-gate.app
+
+Google Play: XG8 Password Keeper on Google Play
+https://play.google.com/store/apps/details?id=app.xg8.keeper
