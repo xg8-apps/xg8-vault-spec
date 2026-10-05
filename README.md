@@ -23,5 +23,5 @@ You can inspect SPEC.md to verify the mathematical invariants implemented across
 
 Website: x-gate.app
 
-Google Play: XG8 Password Keeper on Google Play
+Google Play: XG8 Password Keeper on Google Play<br>
 https://play.google.com/store/apps/details?id=app.xg8.keeper
