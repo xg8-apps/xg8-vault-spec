@@ -1,11 +1,3 @@
-Step 4: Update README.md (The Public Trust Landing)
-On your repository page, click on README.md in the file list.
-
-In the top-right corner of the file preview, click the pencil icon (Edit this file).
-
-Replace the contents completely with this:
-
-Markdown
 # XG8 Cryptographic Specification & Offline Decryptor
 
 > **Your keys. Your data. Absolute zero-knowledge.**
