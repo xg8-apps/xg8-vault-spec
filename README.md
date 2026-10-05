@@ -47,10 +47,7 @@ You can view your passwords directly on your computer with no internet connectio
 3. Open your computer's terminal or command prompt and run:
    ```bash
    pip install cryptography
-   python decrypt.py my_vault_backup.json
-
-```
-
+   python decrypt.py my_vault_backup.json   
 4. Enter your Master Password when prompted. Your credentials will decrypt and display instantly on your screen.
 
 ---
@@ -64,9 +61,5 @@ Want to inspect the cryptographic mathematics powering our zero-knowledge engine
 
 ---
 
-* 🌐 **Official Website:** [xg8.app](https://www.google.com/search?q=https://xg8.app)
+* 🌐 **Official Website:** [xg8.app](https://xg8.app)
 * 📱 **Google Play:** [Download XG8 on Google Play](https://play.google.com/store/apps/details?id=app.xg8.passkeeper)
-
-script is framed as the ultimate fail-safe.
-
-```
