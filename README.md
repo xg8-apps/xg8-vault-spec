@@ -13,12 +13,11 @@ To inspect or decrypt your encrypted vault export locally without contacting any
 
 1. Clone this repository or download `decrypt.py`.
 2. Install the standard Python cryptography library:
-   ```bash
-   pip install cryptography
-Run the decryptor:
+3. pip install cryptography
+4. Run the decryptor:
 
-Bash
 python decrypt.py my_vault_backup.json
+
 Verification
 You can inspect SPEC.md to verify the mathematical invariants implemented across our Android client and backend API.
 
